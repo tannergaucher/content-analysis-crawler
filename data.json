@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://capitalistexploits.at/007-just-sent-me-this/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/1-simple-step-to-becoming-a-better-investor/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.5699999928474426 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/12-reasons-why-here-and-not-there/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/15-traits-of-successful-entrepreneurs/",
+    "classification": {
+      "categories": [
+        { "name": "/People & Society", "confidence": 0.6499999761581421 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/20-biases-that-prey-on-your-investing-success/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2012/05/jailbreaking-education-with-david-blake/",
+    "classification": {
+      "categories": [
+        {
+          "name": "/Jobs & Education/Education",
+          "confidence": 0.5299999713897705
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2012/07/predatory-capitalism/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2013-in-the-rearview-mirror-part-ii/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.7099999785423279 },
+        { "name": "/News/Business News", "confidence": 0.6499999761581421 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2013/03/libya-frontier-markets-fx-and-streaming-agriculture/",
+    "classification": {
+      "categories": [
+        { "name": "/Sensitive Subjects", "confidence": 0.550000011920929 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2013/07/what-comes-after-marbles/",
+    "classification": {
+      "categories": [
+        { "name": "/Arts & Entertainment", "confidence": 0.5699999928474426 },
+        { "name": "/People & Society", "confidence": 0.550000011920929 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2013/08/why-i-love-prism/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/04/friday-qa-ask-a-professional-trader-brad-thomas-2/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.8700000047683716 },
+        { "name": "/Finance/Investing", "confidence": 0.8299999833106995 },
+        {
+          "name": "/News/Business News/Financial Markets News",
+          "confidence": 0.6000000238418579
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/05/friday-qa-brad-thomas-professional-trader-3/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/07/a-bull-market-in-pr/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/10/crowdfunding-disruptive-finance-goes-global-part-ii/",
+    "classification": {
+      "categories": [{ "name": "/Finance", "confidence": 0.7200000286102295 }]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/10/crowdfunding-disruptive-finance-goes-global/",
+    "classification": {
+      "categories": [{ "name": "/Finance", "confidence": 0.5400000214576721 }]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2014/11/what-a-disaster-this-investment-has-been/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.8899999856948853 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2015/01/risk-part-ii-the-best-offshore-asset-protection-youve-probably-never-heard-about/",
+    "classification": {
+      "categories": [{ "name": "/Finance", "confidence": 0.6700000166893005 }]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2015/05/mongolia-finding-its-feet-again/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.9100000262260437 },
+        { "name": "/Business & Industrial", "confidence": 0.5899999737739563 },
+        { "name": "/News/Business News", "confidence": 0.5099999904632568 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2015/06/a-sensory-feast-the-fastest-growing-country-in-latin-america/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2015/06/kiss-in-colombia/",
+    "classification": {
+      "categories": [
+        { "name": "/News/Business News", "confidence": 0.6399999856948853 },
+        { "name": "/Business & Industrial", "confidence": 0.5099999904632568 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2015/12/safety-first-disrupting-security-industry/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016-the-year-when-china-put-trump-on-the-throne/",
+    "classification": {
+      "categories": [
+        { "name": "/News/Business News", "confidence": 0.7400000095367432 },
+        { "name": "/Business & Industrial", "confidence": 0.6600000262260437 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/03/centralization-vs-decentralization/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/03/grant-williams-seeking-opportunities-turbulent-markets/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/04/brad-mcfadden-pessimism-in-europe/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.9399999976158142 },
+        { "name": "/Business & Industrial", "confidence": 0.7200000286102295 },
+        {
+          "name": "/News/Business News/Financial Markets News",
+          "confidence": 0.5899999737739563
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/04/disrupting-global-food-industry/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.8199999928474426 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/04/erik-stettler-emerging-markets-opportunity/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.5899999737739563 },
+        { "name": "/Real Estate", "confidence": 0.5400000214576721 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/04/technology-trends/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.5799999833106995 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/05/farnam-street-be-smarter-investor/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.8100000023841858 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/05/to-russia-with-love/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.800000011920929 },
+        { "name": "/Business & Industrial", "confidence": 0.7799999713897705 },
+        {
+          "name": "/News/Business News/Financial Markets News",
+          "confidence": 0.5299999713897705
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/06/equity-zen-unicorn-investing/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.8100000023841858 },
+        { "name": "/News/Business News", "confidence": 0.7599999904632568 },
+        { "name": "/Business & Industrial", "confidence": 0.7099999785423279 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/06/jared-dillian-bond-markets/",
+    "classification": {
+      "categories": [
+        { "name": "/News/Business News", "confidence": 0.8199999928474426 },
+        { "name": "/Business & Industrial", "confidence": 0.8100000023841858 },
+        { "name": "/Finance", "confidence": 0.6299999952316284 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/06/mikael-syding-podcast/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.6000000238418579 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2016/07/brent-johnson-gold/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.6899999976158142 },
+        { "name": "/Business & Industrial", "confidence": 0.5400000214576721 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/007-just-sent-me-this/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/1-simple-step-to-becoming-a-better-investor/",
+    "classification": {
+      "categories": [
+        { "name": "/Finance/Investing", "confidence": 0.5699999928474426 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/12-reasons-why-here-and-not-there/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/15-traits-of-successful-entrepreneurs/",
+    "classification": {
+      "categories": [
+        { "name": "/People & Society", "confidence": 0.6499999761581421 }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/20-biases-that-prey-on-your-investing-success/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2012/05/jailbreaking-education-with-david-blake/",
+    "classification": {
+      "categories": [
+        {
+          "name": "/Jobs & Education/Education",
+          "confidence": 0.5299999713897705
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://capitalistexploits.at/2012/07/predatory-capitalism/",
+    "classification": { "categories": [] }
+  },
+  {
+    "url": "https://capitalistexploits.at/2013-in-the-rearview-mirror-part-ii/",
+    "classification": {
+      "categories": [
+        { "name": "/Business & Industrial", "confidence": 0.7099999785423279 },
+        { "name": "/News/Business News", "confidence": 0.6499999761581421 }
+      ]
+    }
+  }
+]
