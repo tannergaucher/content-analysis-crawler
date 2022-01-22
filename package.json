@@ -12,7 +12,7 @@
     "@google-cloud/language": "^3.6.3",
     "csv-parser": "^2.3.2",
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "puppeteer": "^2.0.0"
   }
 }
